@@ -32,6 +32,6 @@ Dots is a mobile application designed to enhance accessibility for both visually
 ## Methods
 The application employs various advanced AI techniques and models to process and provide outputs as per the user’s requirements. The key methodologies involve:
 - Image Pre-processing
-- Braille Detection and Conversion using YOL -v8
+- Braille Detection and Conversion using YOLO -v8
 - Text Translation using GPT-4V(ision)
 - Audio processing using Whisper API
